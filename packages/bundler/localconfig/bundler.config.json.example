@@ -1,0 +1,14 @@
+{
+  "gasFactor": "1",
+  "port": "3050",
+  "network": "https://your-network-url.com/v3/your-api-key",
+  "entryPoint": "0xYourEntryPointAddress",
+  "beneficiary": "0xYourBeneficiaryAddress",
+  "minBalance": "1",
+  "mnemonic": "./localconfig/mnemonic.txt",
+  "maxBundleGas": 5000000,
+  "minStake": "0.1",
+  "minUnstakeDelay": 0,
+  "autoBundleInterval": 10,
+  "autoBundleMempoolSize": 10
+}

@@ -1,0 +1,90 @@
+eth.accounts
+eth.getBalance("0x3c0b737caf53bed8202cd2dd04daa414ae442cc2")
+eth.sendTransaction({ from: eth.accounts[0], to: "0x5E398a03E818fD1a7596861b751Fb2D0E7d74c5D", value: 1000000000000000000 })
+eth.getBalance("0x5E398a03E818fD1a7596861b751Fb2D0E7d74c5D")
+eth.sendTransaction({ from: eth.accounts[0], to: "0x6C1E228CAd2D92Da7794a91b0d2B99a6c2241EE4", value: 1000000000000000000 })
+eth.getBalance("0x6C1E228CAd2D92Da7794a91b0d2B99a6c2241EE4")
+eth.accounts
+eth.getBalance('0x5e398a03e818fd1a7596861b751fb2d0e7d74c5d')
+eth.blockNumber
+eth.accounts
+eth.sendTransaction({ from: eth.accounts[0], to: "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789", value: 1000000000000000000 })
+eth.blockNumber
+eth.sendTransaction({ from: eth.accounts[0], to: "0x63c1Bb28cB4D5E87DbC268EA3d78c194f8C023C6", value: 1000000000000000000 })
+eth.blockNumber
+eth.getBalance("0x63c1Bb28cB4D5E87DbC268EA3d78c194f8C023C6")
+eth.getBalance("0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789")
+eth.blockNumber
+eth.getBalance("0xBb93fFD150C52097016749D7cc24302BeD2ae0af")
+eth.getBalance("0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789")
+eth.sendTransaction({ from: eth.accounts[0], to: "0x63c1Bb28cB4D5E87DbC268EA3d78c194f8C023C6", value: 1000000000000000000 })
+eth.sendTransaction({ from: eth.accounts[0], to: "0xBb93fFD150C52097016749D7cc24302BeD2ae0af", value: 1000000000000000000 })
+eth.getCode("0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789")
+eth.getCode("0xBb93fFD150C52097016749D7cc24302BeD2ae0af")
+eth.getCode("0xBb93fFD150C52097016749D7cc24302BeD2ae0a")
+eth.sendTransaction({ from: eth.accounts[0], to: "0xBb93fFD150C52097016749D7cc24302BeD2ae0af", value: 1000000000000000000 })
+eth.getCode("0xE36135850116AB237b096cF3E0F95A55635C97Cd")
+eth.sendTransaction({ from: eth.accounts[0], to: "0xE36135850116AB237b096cF3E0F95A55635C97Cd", value: 1000000000000000000 })
+eth.getBalance("0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789")
+eth.getBalance("0xE36135850116AB237b096cF3E0F95A55635C97Cd")
+eth.blockNumber
+eth.getBalance("0xE36135850116AB237b096cF3E0F95A55635C97Cd")
+eth.sendTransaction({ from: eth.accounts[0], to: "0xE36135850116AB237b096cF3E0F95A55635C97Cd", value: 1000000000000000000 })
+eth.sendTransaction({ from: eth.accounts[0], to: "0xE36135850116AB237b096cF3E0F95A55635C97Cd", value: 1000000000000000000000 })
+eth.getBalance("0xE36135850116AB237b096cF3E0F95A55635C97Cd")
+eth.accounts
+eth.sendTransaction({ from: eth.accounts[0], to: "0xB83bb88197beb9d390aF9aDFeE18d2d11962E275", value: 1000000000000000000000 })
+eth.accounts
+eth.getBalance("0xB83bb88197beb9d390aF9aDFeE18d2d11962E275")
+eth.getBalance("0x5e398a03e818fd1a7596861b751fb2d0e7d74c5d")
+eth.blockNumber
+eth.getBalance("0x5e398a03e818fd1a7596861b751fb2d0e7d74c5d")
+eth.getBalance("0xB83bb88197beb9d390aF9aDFeE18d2d11962E275")
+eth.sendTransaction({ from: eth.accounts[0], to: "0xBB51D6f4830AD5A92FF398ebF3869Ab080fdb22a", value: 10000000000000000000 })
+eth.getBalance("0xBB51D6f4830AD5A92FF398ebF3869Ab080fdb22a")
+eth.getBalance("0x5e398a03e818fd1a7596861b751fb2d0e7d74c5d")
+eth.blockNumber
+eth.accounts
+eth.sendTransaction({ from: eth.accounts[0], to: "0x8b74717A362B4d63618895949fB656de7a370e4B", value: 10000000000000000000 })
+eth.accounts
+eth.blockNumber
+eth.sendTransaction({ from: eth.accounts[0], to: "0xBB51D6f4830AD5A92FF398ebF3869Ab080fdb22a", value: 10000000000000000000 })
+eth.sendTransaction({ from: eth.accounts[0], to: "0x8b74717A362B4d63618895949fB656de7a370e4B", value: 10000000000000000000 })
+eth.blockNumber
+eth.getBalance
+eth.getBalance('0x5e398a03e818fd1a7596861b751fb2d0e7d74c5d')
+eth.getBalance(eth.accounts[1])
+eth.sendTransaction({ from: eth.accounts[1], to: "0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789", value: 1000000000000000000 })
+eth.blockNumber
+eth.getBalance('0xB480d0f23431339F1828Cd4036a8e7535F0B248F')
+eth.blockNumber
+eth.getBalance('0x5E398a03E818fD1a7596861b751Fb2D0E7d74c5D')
+eth.sendTransaction({ from: eth.accounts[0], to: "0x5E398a03E818fD1a7596861b751Fb2D0E7d74c5D", value: 1000000000000000000 })
+eth.blockNumber
+eth.sendTransaction({ from: eth.accounts[0], to: "0x5E398a03E818fD1a7596861b751Fb2D0E7d74c5D", value: 10000000000000000000 })
+eth.blockNumber
+eth.getBalance('0x5E398a03E818fD1a7596861b751Fb2D0E7d74c5D')
+eth.blockNumber
+eth.getBalance('0x5E398a03E818fD1a7596861b751Fb2D0E7d74c5D')
+eth.sendTransaction({ from: eth.accounts[0], to: "0x5E398a03E818fD1a7596861b751Fb2D0E7d74c5D", value: 10000000000000000000 })
+eth.getBalance('0x5E398a03E818fD1a7596861b751Fb2D0E7d74c5D')
+eth.getBalance('0xB480d0f23431339F1828Cd4036a8e7535F0B248F')
+eth.getBalance('0x5E398a03E818fD1a7596861b751Fb2D0E7d74c5D')
+eth.sendTransaction({ from: eth.accounts[0], to: "0x5E398a03E818fD1a7596861b751Fb2D0E7d74c5D", value: 10000000000000000000 })
+eth.getBalance('0x50C44F6cD2353fbB7Ae85f43709A9F728858cC19')
+eth.getBalance('0xB480d0f23431339F1828Cd4036a8e7535F0B248F')
+eth.syncing
+eth.getBalance('0xa76bd66c5a819454a4cc784d45777af4e161bb6afc37d59f1393237711df9986')
+eth.getBalance('0x48843DB6ebc2Af6cBcfD5C1f158EDDAFB030afF3')
+eth.getBlock('latest')
+--miner.gaslime 120000000
+--miner.gaslimit
+eth.getBlock('latest')
+eth.sendTransaction({ from: eth.accounts[0], to: "0x5E398a03E818fD1a7596861b751Fb2D0E7d74c5D", value: 1000000000000000000000 })
+eth.getBalance('0x48843DB6ebc2Af6cBcfD5C1f158EDDAFB030afF3')
+eth.getBlock('latest')
+eth.blockNumber
+eth.accounts
+eth.getCode("0x9a9d0f034919Df20aF478F129A66eA084b7f5F2B")
+eth.accounts
+eth.getBalance('0x48843DB6ebc2Af6cBcfD5C1f158EDDAFB030afF3')

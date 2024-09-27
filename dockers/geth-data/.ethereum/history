@@ -1,0 +1,7 @@
+ls
+ll
+eth.sendTransaction({ from: eth.accounts[0], to: "0x6c1e228cad2d92da7794a91b0d2b99a6c2241ee4", value: 1000000000000000000 })
+eth.accounts
+eth.getBalance("0x6c1e228cad2d92da7794a91b0d2b99a6c2241ee4")
+eth.blockNumber
+eth.accounts
